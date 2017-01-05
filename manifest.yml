@@ -3,8 +3,8 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: quyenalertnode
-  host: quyenfirstnode
+  name: quyenalertnodetoolchain
+  host: quyenfirstnodetoolchain
   disk_quota: 1024M
   services:
   - IBM Alert Notification-0p
